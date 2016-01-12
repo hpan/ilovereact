@@ -1,2 +1,2 @@
 # ilovereact
-Learing react
+Learning react
